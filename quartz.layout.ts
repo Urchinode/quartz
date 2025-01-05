@@ -10,13 +10,13 @@ export const sharedPageComponents: SharedLayout = {
       provider: 'giscus',
       options: {
         // from data-repo
-        repo: 'urchinode/log',
+        repo: 'urchinode/log-hub',
         // from data-repo-id
-        repoId: 'R_kgDONgeGXA',
+        repoId: 'R_kgDONl2JUA',
         // from data-category
-        category: 'Announcements',
+        category: 'General',
         // from data-category-id
-        categoryId: 'DDIC_kwDONgeGXM4Clphr',
+        categoryId: 'DIC_kwDONl2JUM4ClvDE',
       }
     }),
   ],
